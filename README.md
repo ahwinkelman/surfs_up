@@ -15,6 +15,9 @@ Results:
 ![image](https://user-images.githubusercontent.com/107078763/183536410-95c6b797-c3f4-47f9-b240-52273bb86b6c.png)
 
 
+![image](https://user-images.githubusercontent.com/107078763/183538548-7d07f45d-f68e-48ec-a7d5-b50dd74bd00c.png)
+
+
 There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
 Summary:
 
