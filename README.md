@@ -28,9 +28,10 @@ Summary:
 
 
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
--December has significantly higher amounts of percipitation than June (22% vs 13%)
+-December has significantly higher amounts of percipitation than June (22% vs 13% averages)
 
 
 
 ![image](https://user-images.githubusercontent.com/107078763/184046420-d21fcf96-7998-41c0-b04f-07ac73bb7047.png)
+![image](https://user-images.githubusercontent.com/107078763/184046689-67cd6ca2-b8c3-42b7-b715-112d476155d2.png)
 
